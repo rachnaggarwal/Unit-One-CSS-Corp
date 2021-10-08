@@ -30,5 +30,5 @@ In this repository, you will find my learnings for all the topics mentioned belo
 
 [OOPs in Java](https://olympus1.greatlearning.in/course_certificate/FNDZUAWH)
 
-Note:- Will be updating this repository for other topics as well. First submiting my task for Introduction to JAVA, OOPs, Basics of Java programming topic.
+
                                                                                                                                                  
