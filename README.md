@@ -1,4 +1,4 @@
-In this repository, you will find the my learnings for all the topics mentioned below:-
+In this repository, you will find my learnings for all the topics mentioned below:-
 ### 1. Introduction to JAVA, OOPs, Basics of Java programming.
 **Word file**
 [Introduction to JAVA, OOPs, Basics of Java programming..docx](https://github.com/rachnaggarwal/Unit-One-CSS-Corp/files/7310606/Introduction.to.JAVA.OOPs.Basics.of.Java.programming.docx)
@@ -29,4 +29,6 @@ In this repository, you will find the my learnings for all the topics mentioned 
 [Java Basic Programs](https://olympus1.greatlearning.in/course_certificate/JMCHJKYV)
 
 [OOPs in Java](https://olympus1.greatlearning.in/course_certificate/FNDZUAWH)
+
+Note:- Will be updating this repository for other topics as well. First submiting my task for Introduction to JAVA, OOPs, Basics of Java programming topic.
                                                                                                                                                  
